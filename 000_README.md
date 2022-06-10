@@ -20,7 +20,7 @@
 ##
 
 ###
-### AS OF 06.10.2022, There are  only 12 "tasks" and Hans-on Solutions
+### AS OF 06.10.2022, There are  only 14 "tasks" and Hans-on Solutions
 ###   I plan to add more over time.
 
 ####
